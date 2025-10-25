@@ -1,5 +1,6 @@
 <html>
-<body>
-<h2 stype="colour: red">Deployed using Jenkins, Ansible!! -2</h2>
-</body>
+  <head><title>Welcome</title></head>
+  <body>
+    <h1>Hello from Docker + Tomcat!</h1>
+  </body>
 </html>
